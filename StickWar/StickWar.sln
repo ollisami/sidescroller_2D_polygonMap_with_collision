@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{370A349D-D130-25B6-2291-13DD309B1E66}") = "StickWar", "Assembly-CSharp.csproj", "{4DA4358B-9847-F3CD-A372-93C5FE3CAA64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DA4358B-9847-F3CD-A372-93C5FE3CAA64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DA4358B-9847-F3CD-A372-93C5FE3CAA64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DA4358B-9847-F3CD-A372-93C5FE3CAA64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DA4358B-9847-F3CD-A372-93C5FE3CAA64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
